@@ -4,3 +4,5 @@
                         puts "   |   |   "
                         puts "-----------"
                         puts "   |   |   "
+
+display_board = A Tic Taco Toe Board 
