@@ -5,4 +5,4 @@
                         puts "-----------"
                         puts "   |   |   "
 
-display_board = A Tic Taco Toe Board 
+display_board = A Tic Tac Toe Board 
